@@ -1,0 +1,19 @@
+.Top-Bar{
+    background-color: #282c34;
+    border-style: solid;
+    display: flex;
+}
+.Nav-Menu-Botton{
+    float: left;
+    padding-left: 20px;
+    width: 40px;
+    height: 80px;
+}
+.Title-Container{
+    justify-content: center;
+    width: 100%
+}
+.Title{
+    height: 80px; 
+    font-size: 75px;
+}
